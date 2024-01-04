@@ -1,0 +1,7 @@
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\bin\Debug\PrecisionBuildOne.exe.config
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\bin\Debug\PrecisionBuildOne.exe
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\bin\Debug\PrecisionBuildOne.pdb
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Debug\PrecisionBuildOne.csproj.AssemblyReference.cache
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Debug\PrecisionBuildOne.csproj.CoreCompileInputs.cache
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Debug\PrecisionBuildOne.exe
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Debug\PrecisionBuildOne.pdb

@@ -1,0 +1,14 @@
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\bin\Release\PrecisionBuildOne.exe.config
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\bin\Release\PrecisionBuildOne.exe
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\bin\Release\PrecisionBuildOne.pdb
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Release\PrecisionBuildOne.csproj.AssemblyReference.cache
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Release\PrecisionBuildOne.csproj.CoreCompileInputs.cache
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Release\PrecisionBuildOne.exe
+C:\Users\Legacy\Downloads\PrecisionSpoofer-CSharp-main\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Release\PrecisionBuildOne.pdb
+F:\!!! legacy's stuff !!!\sources\temp spoofer srcs\cool key loader\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\bin\Release\PrecisionBuildOne.exe.config
+F:\!!! legacy's stuff !!!\sources\temp spoofer srcs\cool key loader\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\bin\Release\PrecisionBuildOne.exe
+F:\!!! legacy's stuff !!!\sources\temp spoofer srcs\cool key loader\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\bin\Release\PrecisionBuildOne.pdb
+F:\!!! legacy's stuff !!!\sources\temp spoofer srcs\cool key loader\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Release\PrecisionBuildOne.csproj.AssemblyReference.cache
+F:\!!! legacy's stuff !!!\sources\temp spoofer srcs\cool key loader\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Release\PrecisionBuildOne.csproj.CoreCompileInputs.cache
+F:\!!! legacy's stuff !!!\sources\temp spoofer srcs\cool key loader\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Release\PrecisionBuildOne.exe
+F:\!!! legacy's stuff !!!\sources\temp spoofer srcs\cool key loader\PrecisionSpoofer-CSharp-main\PrecisionBuildOne\obj\Release\PrecisionBuildOne.pdb
